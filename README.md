@@ -41,4 +41,4 @@ In active mode:
 - **lcd.c** – This file is responsible for controlling the LCD display.  
 - **klawiatura.c** – This file manages the keypad input for entering the PIN and interacting with the system.  
 
-
+[](./Produkcja.mp4)

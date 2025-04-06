@@ -40,5 +40,5 @@ In active mode:
 - **bcd.c** – This file handles the BCD counter for tracking the produced items.  
 - **lcd.c** – This file is responsible for controlling the LCD display.  
 - **klawiatura.c** – This file manages the keypad input for entering the PIN and interacting with the system.  
+- **Produkcja.mp4** – A short video demonstrating the operation of the system is included in this file.
 
-[](./Produkcja.mp4)

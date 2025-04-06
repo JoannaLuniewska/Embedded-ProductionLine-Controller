@@ -1,0 +1,12 @@
+*.hex
+*.OBJ
+*.LST
+*.MAP
+*.SBR
+*.plg
+*.bak
+*.lnp
+*.workspace
+*.uvopt
+*.uvproj
+*.uvgui.*

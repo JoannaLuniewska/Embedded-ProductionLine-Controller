@@ -41,4 +41,6 @@ In active mode:
 - **lcd.c** – This file is responsible for controlling the LCD display.  
 - **klawiatura.c** – This file manages the keypad input for entering the PIN and interacting with the system.  
 - **Produkcja.mp4** – A short video demonstrating the operation of the system is included in this file.
+- **produkcja.pdsprj** – Proteus project file that contains the complete simulation setup of the system, including microcontrollers, LCD, keypad, motor, LEDs, and all wiring.
+- **produkcja.uvmpw** – Keil µVision project workspace file that includes all source files (`.c`, `.h`) and settings required to compile the firmware for the AT89C52 microcontrollers.
 
